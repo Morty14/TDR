@@ -3,10 +3,9 @@
     <header class="flex-container">
         <div class="social-block">
         <ul>
-          <li><a href="https://www.facebook.com/motionlessinwhite/"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="https://vk.com/miwband"><i class="fa fa-vk"></i></a></li>
-          <li><a href="https://www.instagram.com/miwband/?hl=ru"><i class="fa fa-instagram"></i></a></li>
-          <li><a href="https://www.youtube.com/channel/UC5MWh1k90KULpPOeXAzoIZA"><i class="fa fa-youtube-play"></i></a></li>
+          <li><a href="https://vk.com/thedeadraibbons"><i class="fa fa-vk"></i></a></li>
+          <li><a href="https://www.instagram.com/thedeadraibbons/"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="https://www.youtube.com/channel/UCShGCQN8WlKt7VeFKa7vnrA"><i class="fa fa-youtube-play"></i></a></li>
         </ul>
       </div>
       <div class="links-block">
