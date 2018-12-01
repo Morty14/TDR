@@ -8,12 +8,12 @@
       </div>
       <div class="text-item">
         <h1>
-        The Dead Raibons
+        TDR
         </h1>
       </div>
     </div>
     <div class=MainImg>
-      <img src="https://pp.userapi.com/c849528/v849528290/818ac/nvA3PB4VFc4.jpg" width="800" height="800" alt="Happy Potato"></div>
+      <img src="https://pp.userapi.com/c849528/v849528290/818ac/nvA3PB4VFc4.jpg" width="800" height="800" alt="TDR"></div>
   </div>
 </template>
 <style>
