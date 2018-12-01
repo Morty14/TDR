@@ -8,7 +8,7 @@
       </div>
       <div class="text-item">
         <h1>
-        TDR
+        THE DEAD RAIBONS
         </h1>
       </div>
     </div>
